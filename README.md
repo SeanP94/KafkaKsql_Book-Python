@@ -2,6 +2,8 @@ This repository is a bit of my code that I am using to write similar code to the
 Mastering Kafka Streams and KsqlDB Book by Mitch Seymour, his repository for his code is :
 https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb
 
+(All code here, will be written by me, not by Mitch Seymour since his code is in Java.)
+
 The book is taught in Java, but I am trying to use Kafka via Python.
 Hopefully, I will be finished with translating/learning the book by March.
 
